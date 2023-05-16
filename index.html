@@ -119,8 +119,8 @@
 											<div class="inner">
 												<h4>Big Bend National Park</h4>
 												<p>blah blah blah.</p>
-												<i class="fa fa-thumbs-up" style="font-size:24px" onclick="AddClick()"></i>
-												<span id="CountedClicks">0 Likes</span><br>
+												<i class="fa fa-thumbs-up" style="font-size:24px" onclick="AddClick1()"></i>
+												<span id="CountedClicks"> 0 Likes</span><br>
 												</p>
 											</div>
 										</article>
@@ -129,8 +129,8 @@
 											<div class="inner">
 												<h4>Yosemite National Park</h4>
 												<p>blah blah blah.</p>
-												<i class="fa fa-thumbs-up" style="font-size:24px" onclick="AddClick()"></i>
-												<span id="CountedClicks">0 Likes</span><br>
+												<i class="fa fa-thumbs-up" style="font-size:24px" onclick="AddClick2()"></i>
+												<span id="CountedClicks"> 0 Likes</span><br>
 											</div>
 										</article>
 										<article>
@@ -138,8 +138,8 @@
 											<div class="inner">
 												<h4>Olympic National Park</h4>
 												<p>blah blah blah.</p>
-												<i class="fa fa-thumbs-up" style="font-size:24px" onclick="AddClick()"></i>
-												<span id="CountedClicks">0 Likes</span><br>
+												<i class="fa fa-thumbs-up" style="font-size:24px" onclick="AddClick3()"></i>
+												<span id="CountedClicks"> 0 Likes</span><br>
 											</div>
 										</article>
 									</div>
@@ -500,7 +500,15 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/main.js"></script>
 			<script>
 				var Clicks = 0 ;
-				function AddClick(){
+				function AddClick1(){
+				Clicks = Clicks + 1;
+				document.getElementById('CountedClicks').innerHTML = Clicks + ' Hits';
+				}
+				function AddClick2(){
+				Clicks = Clicks + 1;
+				document.getElementById('CountedClicks').innerHTML = Clicks + ' Hits';
+				}
+				function AddClick3(){
 				Clicks = Clicks + 1;
 				document.getElementById('CountedClicks').innerHTML = Clicks + ' Hits';
 				}
