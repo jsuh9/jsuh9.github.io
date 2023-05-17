@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #120b50;
 		}
 
 	select {
@@ -2706,8 +2706,8 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #0c1239da;
-		color: #0c1239da;
+		background: #0d1339dd;
+		color: #2a0e71da;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2813,7 +2813,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #12164b;
+							background: #090c32;
 							color: #ffffff !important;
 						}
 
@@ -2845,9 +2845,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #dfe0e8dd;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #1d0849;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
@@ -2856,24 +2856,29 @@ input, select, textarea {
 			line-height: 1em;
 			list-style: none;
 			padding: 0;
+			font-size: 14px;
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px #d4d4d4;
+				border-left: solid 2px #6f6a8a;
 				display: inline-block;
 				font-size: 0.8em;
 				margin-left: 1em;
 				padding-left: 1em;
+				font-size: 14px;
 			}
 
 				#footer .copyright li:first-child {
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
+					font-size: 14px;
 				}
 
 				#footer .copyright li a {
 					color: inherit;
+					font-size: 14px;
+					border-color: #73789cf0;
 				}
 
 /* XLarge */
