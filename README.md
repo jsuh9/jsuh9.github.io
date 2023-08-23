@@ -1,2 +1,2 @@
-# jihoonsuh9.github.io
+# jsuh9.github.io
 my website
