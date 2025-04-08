@@ -14,7 +14,7 @@ My research lies at the intersection of [control theory](https://en.wikipedia.or
 This is my professional webpage as well as my personal blog.
 You can check out my CV, publications, or read up on my latest blog posts.
 You can also find links to all my professional outlets on the side (or on top for mobile viewers).
-If you are interested in my work, or wants to collaborate, please feel free to reach out!
+If you are interested in my work, or want to collaborate, please feel free to reach out!
 
 About Me
 ======
