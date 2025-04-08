@@ -13,7 +13,7 @@ redirect_from:
 
 My Full CV can be downloaded here:
  <button onclick="window.open('{{ '/files/jihoon_cv2025.pdf' | relative_url }}', '_blank')">
-  📄 View CV (PDF)
+    Download CV (.pdf)
 </button>
 
 Below is an overview.
