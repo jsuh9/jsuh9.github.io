@@ -21,7 +21,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Publications (to be updated)"
     url: /publications/
 
   # - title: "Talks"
@@ -33,5 +33,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "Guide (for self reference)"
     url: /markdown/
