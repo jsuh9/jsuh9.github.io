@@ -59,7 +59,7 @@ Mentoring / Advising
 
 Community Engagement
 ======
-* ReviEncrypted Inverted Pendulum Demonstration at Explore UT
+* Encrypted Inverted Pendulum Demonstration at Explore UT
 
 Professional Service
 ======
