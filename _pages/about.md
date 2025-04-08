@@ -18,4 +18,4 @@ If you are interested in my work, or wants to collaborate, please feel free to r
 
 About Me
 ======
-Short personal bio and some photos to be included.
+Short personal bio and some photos to be included
