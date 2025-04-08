@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
+## Curriculum Vitae
+
+My Full CV can be downloaded here:
+ <button onclick="window.open('{{ '/files/jihoon_cv2025.pdf' | relative_url }}', '_blank')">
+  📄 View CV (PDF)
+</button>
+
+Below is an overview.
+
+Research Interests:
+======
+* Encrypted Control, Reinforcement Learning, Security, Cryptographic Computing
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Autonomy and Control, Purdue University, 05/2026 (expected)
+  * Thesis: Efficient Encrypted Control Synthesis for Secure Cloud-based Control
+* M.S. in Control, Autonomy, and Robotics, The University of Texas at Austin, 12/2020
+* B.S. in Aerospace Engineering, The University of Texas at Austin, 12/2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Work Authorization
+=====
+* Citizenship Status: U.S. Citizen
+* Veteran Status: U.S. Army Reserve Veteran
+* Disability Status: No Disability
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Technical Skills
+======
+* Programming: Python, C++, MATLAB
+* Tools: Simulink, PyTorch, Microsoft SEAL, TensorFlow, YALMIP, CVXPY, ROS, Google Cloud, Quarc, Git
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Employemnt
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Research/Teaching Assistant, 08/2019 -- Present
+* Chief Research Officer, Nika Capital, 06/2023 -- 12/2024
+* Machine Learning Scientist Intern, Draper Laboratory, 05/2021 -- 08/2021
 
-Publications
+Teaching Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Teaching Assistant -- The University of Texas at Austin
+  * Feedback Control Systems: Spring 2021, Spring 2023, Fall 2023, Spring 2024
+  * Linear System Analysis: Fall 2023, Fall 2024
+
+Mentoring / Advising
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Mentor for REACT-REU , The Center for Autonomy at the Oden Institute, 05/2023 – 08/2023,
+  * Mentoring undergraduate students while leading a research project on Crazyflies quadcopter formation flying with Python and basic motion planning (Mentees: Ian Cornwell, Alayasia Thomas).
+
+Community Engagement
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* ReviEncrypted Inverted Pendulum Demonstration at Explore UT
+
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: TAC, CDC, ACC, ECC, IFAC, L-CSS, Automatica
