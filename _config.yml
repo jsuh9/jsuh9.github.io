@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile/jihoon_professional_headshot.png"
+  avatar           : "profile/JihoonSuh.png"
   name             : "Jihoon Suh"
   # pronouns         : # example: "she/her"  
   bio              : "PhD student @ <a href='https://networked-control-systems-lab.github.io'>NCS Lab</a><br>Research Interests:<ul class='research-interests'><li>Control Theory</li><li>Cryptography</li><li>Reinforcement Learning</li></ul>"
