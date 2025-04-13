@@ -1,52 +1,18 @@
-/* =====================================================================
-   CUSTOM LAYOUT ― STAR‑FIELD FRAME + DETACHED HEADER + SIDEBAR
-   ---------------------------------------------------------------------
-   This file replaces your previous assets/css/custom.css.
-   Put it in assets/css/ and keep _includes/head/custom.html pointing to
-   it.  No other theme files need to be edited.
-
-   LAYOUT OVERVIEW (desktop ≥ 601 px)
-
-   star‑field background shows on every side
-   ┌─────────────────────────────────────────────────────────────────┐
-   │ sky (‑‑sky-gap)                                               │
-   │         ┌───────────── masthead (menu bar) ──────────────┐     │
-   │         │                                               │     │
-   │ sky (‑‑internal-gap)                                    │     │
-   │         ┌───────────────── white CARD ─────────────────┐      │
-   │         │  ┌── sidebar ─┐  main content area           │      │
-   │         │  └────────────┘                               │      │
-   │         └───────────────────────────────────────────────┘      │
-   │ sky (‑‑internal-gap)                                    │     │
-   │         ┌───────────── footer ─────────────────────────┐      │
-   │         │                                               │     │
-   │ sky (‑‑sky-gap)                                         │     │
-   └─────────────────────────────────────────────────────────────────┘
-
-   MOBILE (≤ 600 px) falls back to full‑bleed layout: header, content,
-   and footer stretch edge‑to‑edge for readability.
-   ===================================================================== */
-
-/* ---------- 0. DESIGN TOKENS ---------------------------------------- */
 :root {
-    /* gaps where the star‑field shows */
     --sky-gap-top: 2vh;
-    --internal-gap: -1.0rem;      /* white gap between masthead / card / footer */
+    --internal-gap: -1.0rem;
   
-    /* card size */
-    --card-width: 92vw;          /* width of white card & header/footer */
-    --card-max-width: 1500px;    /* don’t stretch on ultra‑wide monitors */
+    --card-width: 92vw;
+    --card-max-width: 1500px;
   
-    /* aesthetics */
-    --card-radius: 8px;          /* corner roundness for card & bars   */
+    --card-radius: 8px;
     --card-shadow: 0 0 25px rgba(0,0,0,.15);
-    --card-bg: #ffffff;          /* white background colour            */
+    --card-bg: #ffffff;
   
-    /* true pixel height of your masthead (menu bar) including padding  */
-    --masthead-height: 110px;    /* tweak if you change header height  */
+    --masthead-height: 110px;
   }
   
-  /* ---------- 1. GLOBAL BACKGROUND (STAR‑FIELD) ----------------------- */
+  /* ---------- GLOBAL BACKGROUND (night sky) ----------------------- */
   html {
     background-image: url('/images/nightsky.jpg');
     background-size: cover;
@@ -57,12 +23,12 @@
   
   body {
     margin: 0;
-    background: transparent; /* card + bars supply their own white */
+    background: transparent;
   }
 
-  /* ---------- 2. MASTHEAD (detached header bar) ----------------------- */
+  /* ---------- detached header bar ----------------------- */
   .masthead {
-    position: relative !important;         /* override theme fixed/abs */
+    position: relative !important;
     width: var(--card-width);
     max-width: var(--card-max-width);
     margin: var(--sky-gap-top) auto 0 auto;
@@ -72,30 +38,28 @@
     padding: -1.5rem -1.5rem -1.5rem;                  /* inner spacing */
   }
 
-  /* ---------- 3. MAIN WHITE CARD -------------------------------------- */
-  /* The theme sometimes uses .initial-content, sometimes #main */
-  /* Make card wrap content & sidebar using Flexbox */
+  /* ---------- Main Background card ------------------------------------- */
   .initial-content,
   #main {
-    display: flow-root; /* preserves original vertical layout */
+    display: flow-root;
     width: var(--card-width);
     max-width: var(--card-max-width);
     margin: var(--internal-gap) auto 0 auto;
-    margin-bottom: -8rem; /* Adjust this negative value as needed */
+    margin-bottom: -8rem;
     background: var(--card-bg) !important;
     box-shadow: var(--card-shadow);
     border-radius: var(--card-radius);
     padding: 3.0rem;
-    padding-bottom: 1.0rem; /* extra bottom padding ensures sidebar never spills out */
+    padding-bottom: 1.0rem;
   }
   
   .sidebar {
     position: sticky;
     top: calc(var(--masthead-height) + var(--internal-gap));
     max-height: calc(100vh - var(--masthead-height) - 2rem);
-    overflow-y: auto; /* allow sidebar scrolling within the card */
+    overflow-y: auto;
     background: transparent !important;
-    width: 180px; /* adjust this value until the text fits perfectly */
+    width: 180px;
     max-width: 100%;
   
   }
@@ -113,20 +77,19 @@
   }
 
   .sidebar .author__avatar {
-    margin: 0 auto; /* This will center the avatar */
+    margin: 0 auto;
     margin-top: -3rem;
     margin-left: 0.0rem;
   }
 
   .sidebar .author__avatar img {
-    width: 150px;       /* or 80px, adjust as needed */
-    height: auto;       /* maintain aspect ratio */
-    border-radius: 50%; /* keeps it circular */
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
   }
 
-  /* ---------- 4. PAGE & CONTENT CLEAN‑UP ------------------------------ */
   .page, .page__inner-wrap, .page__content {
-    margin-bottom: 0 !important;           /* prevent gaps inside card */
+    margin-bottom: 0 !important;
   }
 
   .sidebar strong {
@@ -141,7 +104,7 @@
     padding-top: 0 !important;
     margin-bottom: 1rem !important;
     padding-bottom: 0 !important;
-    list-style-type: disc; /* bullet points */
+    list-style-type: disc;
     font-size: 0.85rem;
     color: #39383c;
   }
@@ -157,76 +120,72 @@
   }
 
 
-/* ── Mobile (≤ 900 px) : roomy profile header ───────────────────────── */
+/* ── Mobile (<= 900 px) : roomy profile header ───────────────────────── */
 @media (max-width: 900px) {
-
-    /* 1 ─ white card needs only a thin top padding */
+  
     .initial-content,
     #main { padding-top: 0.75rem !important; }
-  
-    /* 2 ─ sidebar row spans full width */
+
     .sidebar {
-      position: static !important;           /* no sticky */
+      position: static !important;
       display: flex !important;
       align-items: flex-start;
       flex-wrap: nowrap;
-      gap: 0.2rem;                           /* wider gap */
+      gap: 0.2rem;
       width: 100%;
       padding: 0.25rem 0.5rem 0.5rem;
-      margin: 0 0 2rem 0;                    /* bigger gap below header */
+      margin: 0 0 2rem 0;
       background: var(--card-bg);
     }
   
     .sidebar .author__avatar {
-        margin: 0 auto; /* This will center the avatar */
+        margin: 0 auto;
         margin-top: -1rem;
         margin-left: 0.0rem;
         margin-bottom: 0.5rem;
       }
 
-    /* 3 ─ avatar: big & bold (≈ 200 px) */
     .sidebar .author__avatar img {
-        width: 100px;       /* or 80px, adjust as needed */
-        height: auto;       /* maintain aspect ratio */
-        border-radius: 50%; /* keeps it circular */
+        width: 100px;
+        height: auto;
+        border-radius: 50%;
         margin-top: 0.2rem;
         margin-bottom: 0.2rem
       }
 
-    /* 4 ─ text column fills remaining width */
     .sidebar .author__name {
       flex: 1 1 0;
-      min-width: 0;                          /* allow wrapping */
+      min-width: 0;
       text-align: left;
       margin-bottom: 0.0rem
     }
 
-    /* 4 ─ text column fills remaining width */
+
     .sidebar__inner,
     .sidebar .author__content,
     .sidebar .author__urls-wrapper {
       flex: 1 1 0;
-      min-width: 0;                          /* allow wrapping */
+      min-width: 0;
       text-align: left;
       margin-bottom: 0.0rem
     }
   
-    /* 5 ─ tidy spacing in text column */
+
     .sidebar strong {
         margin-bottom: 0 !important;
     }
       
     ul.research-interests {
-        margin-top: 0.2rem !important; /* or however much space you want */
+        margin-top: 0.2rem !important;
     }
       
       
     ul.research-interests li {
-        margin: 0;                    /* kill default li top/bottom margin */
-        line-height: 1.5;            /* tighten line spacing (1.0–1.2)    */
+        margin: 0;
+        line-height: 1.5;
     }
   
-    /* 6 ─ main card no extra top offset */
+
     .initial-content,
     #main { margin-top: 0 !important; }
   }
