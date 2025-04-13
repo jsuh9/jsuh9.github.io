@@ -13,7 +13,7 @@ In many of life's pivotal moments, I was unknowlingly living by a simple princip
 
 Reflecting on it, I still believe in this principle---and I’m happy with where it's led me.
 
-Welcome to my personal (and professional) weebpage!
+Welcome to my personal (and professional) webpage!
 
 Hi, I am a PhD student at [Purdue University](https://www.purdue.edu/) in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE). I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
