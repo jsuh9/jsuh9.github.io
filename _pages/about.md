@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Welcome to Jihoon's Webpage!"
+title: "Live with Why Not, and Think with Why"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+In many of life's pivotal moments, I was unknowlingly living by a simple principle: 
+
+  "Live with Why Not, and Think with Why."
+
+Reflecting on it, I still believe in this principle---and I’m happy with where it's led me.
+
+Welcome to my personal (and professional) weebpage!
 
 Hi, I am a PhD student at [Purdue University](https://www.purdue.edu/) in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE). I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
