@@ -26,9 +26,9 @@ If you are interested in my work, or want to collaborate, please feel free to re
 
 About Me
 ======
-Short personal bio and some photos to be included
+Some photos to be included in the future.
 
-
+<!-- 
 <div id="slideshow" style="position: relative; width: 300px; height: 250px; overflow: hidden; margin-bottom: 20px;">
   <div class="slide" style="position: absolute; width: 100%; height: 100%;">
     <a href="/images/bio-photo.jpg" target="_blank">
@@ -86,4 +86,4 @@ Click on any image to view it full size.
     </a>
     <figcaption style="font-size: 14px;">My favorite conference moment</figcaption>
   </figure>
-</div>
+</div> -->
