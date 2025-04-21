@@ -195,7 +195,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <div class="thumbnail-container">
       <img src="/images/hs_football.jpeg" alt="Photo 3" class="thumbnail">
     </div>
-    <figcaption class="thumbnail-caption">In a local newspaper, the Heisman pose</figcaption>
+    <figcaption class="thumbnail-caption">A local newspaper captured me with the Heisman pose</figcaption>
   </figure>
 
   <figure class="gallery-item" onclick="openLightbox('/images/soccer_torney.jpeg', 'Led my Korean student soccer team to win a local tournament as a captain')">
@@ -393,57 +393,3 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     }
   });
 </script>
-
-<!-- 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 15px;">
-
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/cowboy.jpeg" target="_blank">
-      <img src="/images/cowboy.jpeg" alt="Photo 1" style="width: 120%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">Dressed up as a cowboy (exchange student days)</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/football_torney.jpg" target="_blank">
-      <img src="/images/football_torney.jpg" alt="Photo 2" style="width: 100%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">First American football experience</figcaption>
-  </figure>
-  
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/hs_football.jpeg" target="_blank">
-      <img src="/images/hs_football.jpeg" alt="Photo 3" style="width: 100%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">A local news took a cool picture of me with the Heisman pose</figcaption>
-  </figure>
-  
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/natural_independence.jpeg" target="_blank">
-      <img src="/images/natural_independence.jpeg" alt="Photo 4" style="width: 100%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">The Oath of Allegiance on the Independence day</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/train_army.jpeg" target="_blank">
-      <img src="/images/train_army.jpeg" alt="Photo 5" style="width: 100%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">Field training days in the US Army</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/camo.jpeg" target="_blank">
-      <img src="/images/camo.jpeg" alt="Photo 6" style="width: 100%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">Training with a camouflage in the field</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <a href="/images/skydiving.jpeg" target="_blank">
-      <img src="/images/skydiving.jpeg" alt="Photo 7" style="width: 100%; height: 150px; object-fit: cover;">
-    </a>
-    <figcaption style="font-size: 14px;">Jumped from an airplane at 10,000 feet</figcaption>
-  </figure>
-
-</div> -->
