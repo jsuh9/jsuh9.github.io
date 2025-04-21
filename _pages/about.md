@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In many of life's pivotal moments, I was unknowlingly living by a simple principle: 
+I was living by this simple principle in many of life's pivotal moments wthout even realizing.
 
   "Live with Why Not, and Think with Why."
 
@@ -240,7 +240,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     </div>
     <figcaption class="thumbnail-caption">Winning soccer tourney as a captain</figcaption>
   </figure>
-  
+
   <figure class="gallery-item" onclick="openLightbox('/images/tennis_nadal.jpeg', 'Played tennis on a red clay court')">
     <div class="thumbnail-container">
       <img src="/images/tennis_nadal.jpeg" alt="Photo 9" class="thumbnail">
