@@ -192,18 +192,11 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <figcaption class="thumbnail-caption">First American football</figcaption>
   </figure>
   
-  <figure class="gallery-item" onclick="openLightbox('/images/hs_football.jpeg', 'A local news took a cool picture of me with the Heisman pose')">
+  <figure class="gallery-item" onclick="openLightbox('/images/hs_football.jpeg', 'A local newspapr photographed me doing the iconic Heisman pose during the game')">
     <div class="thumbnail-container">
       <img src="/images/hs_football.jpeg" alt="Photo 3" class="thumbnail">
     </div>
-    <figcaption class="thumbnail-caption">A local newspaper captured me with the Heisman pose</figcaption>
-  </figure>
-
-  <figure class="gallery-item" onclick="openLightbox('/images/soccer_torney.jpeg', 'Led my Korean student soccer team to win a local tournament as a captain')">
-    <div class="thumbnail-container">
-      <img src="/images/soccer_torney.jpeg" alt="Photo 9" class="thumbnail">
-    </div>
-    <figcaption class="thumbnail-caption">Winning soccer tourney as a captain</figcaption>
+    <figcaption class="thumbnail-caption">The Heisman pose captured by a media</figcaption>
   </figure>
   
   <figure class="gallery-item" onclick="openLightbox('/images/natural_independence.jpeg', 'The Oath of Allegiance on the Independence day')">
@@ -213,14 +206,14 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <figcaption class="thumbnail-caption">Officially becoming American</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/train_army.jpeg', 'Field training days in the US Army')">
+  <figure class="gallery-item" onclick="openLightbox('/images/train_army.jpeg', 'Weapons training as a solider in the US Army')">
     <div class="thumbnail-container">
       <img src="/images/train_army.jpeg" alt="Photo 5" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Field training</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/camo.jpeg', 'Training with a camouflage in the field')">
+  <figure class="gallery-item" onclick="openLightbox('/images/camo.jpeg', 'Can you find me? Training with a camouflage when I was in the US Army')">
     <div class="thumbnail-container">
       <img src="/images/camo.jpeg" alt="Photo 6" class="thumbnail">
     </div>
@@ -241,6 +234,13 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <figcaption class="thumbnail-caption">First surfing</figcaption>
   </figure>
 
+  <figure class="gallery-item" onclick="openLightbox('/images/soccer_torney.jpeg', 'Led my Korean student soccer team to tournament victory as team captain')">
+    <div class="thumbnail-container">
+      <img src="/images/soccer_torney.jpeg" alt="Photo 9" class="thumbnail">
+    </div>
+    <figcaption class="thumbnail-caption">Winning soccer tourney as a captain</figcaption>
+  </figure>
+  
   <figure class="gallery-item" onclick="openLightbox('/images/tennis_nadal.jpeg', 'Played tennis on a red clay court')">
     <div class="thumbnail-container">
       <img src="/images/tennis_nadal.jpeg" alt="Photo 9" class="thumbnail">
@@ -248,7 +248,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <figcaption class="thumbnail-caption">Playing tennis on a clay court</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/biking_on_campus.jpeg', 'Biking on a campus is a great feeling')">
+  <figure class="gallery-item" onclick="openLightbox('/images/biking_on_campus.jpeg', 'The freedom and joy of cycling across campus is a small bit of happiness')">
     <div class="thumbnail-container">
       <img src="/images/biking_on_campus.jpeg" alt="Photo 9" class="thumbnail">
     </div>
