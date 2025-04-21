@@ -243,7 +243,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <div class="thumbnail-container">
       <img src="/images/biking_on_campus.jpeg" alt="Photo 9" class="thumbnail">
     </div>
-    <figcaption class="thumbnail-caption">My foldable bike</figcaption>
+    <figcaption class="thumbnail-caption">Foldable bike</figcaption>
   </figure>
 
   <figure class="gallery-item" onclick="openLightbox('/images/surfing.jpeg', 'Tried surfing for the first time')">
