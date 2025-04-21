@@ -9,8 +9,6 @@ redirect_from:
 
 I was living by this simple principle in many of life's pivotal moments wthout even realizing.
 
-  "Live with Why Not, and Think with Why."
-
 Reflecting on it, I still believe in this principle---and I’m happy with where it's led me.
 
 Hi, welcome to my webpage! I am a PhD student at [Purdue University](https://www.purdue.edu/) in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE). I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
@@ -224,14 +222,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <div class="thumbnail-container">
       <img src="/images/skydiving.jpeg" alt="Photo 7" class="thumbnail">
     </div>
-    <figcaption class="thumbnail-caption">First skydiving</figcaption>
-  </figure>
-
-  <figure class="gallery-item" onclick="openLightbox('/images/surfing.jpeg', 'Tried surfing for the first time')">
-    <div class="thumbnail-container">
-      <img src="/images/surfing.jpeg" alt="Photo 8" class="thumbnail">
-    </div>
-    <figcaption class="thumbnail-caption">First surfing</figcaption>
+    <figcaption class="thumbnail-caption">Skydiving</figcaption>
   </figure>
 
   <figure class="gallery-item" onclick="openLightbox('/images/soccer_torney.jpeg', 'Led my Korean student soccer team to tournament victory as team captain')">
@@ -252,8 +243,16 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     <div class="thumbnail-container">
       <img src="/images/biking_on_campus.jpeg" alt="Photo 9" class="thumbnail">
     </div>
-    <figcaption class="thumbnail-caption">Riding my foldable bike</figcaption>
+    <figcaption class="thumbnail-caption">My foldable bike</figcaption>
   </figure>
+
+  <figure class="gallery-item" onclick="openLightbox('/images/surfing.jpeg', 'Tried surfing for the first time')">
+    <div class="thumbnail-container">
+      <img src="/images/surfing.jpeg" alt="Photo 8" class="thumbnail">
+    </div>
+    <figcaption class="thumbnail-caption">Surfing</figcaption>
+  </figure>
+
 </div>
 
 <!-- Lightbox Container -->
@@ -266,7 +265,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
       <button class="nav-button prev-button" onclick="prevImage()">&lt; Previous</button>
       <button class="nav-button next-button" onclick="nextImage()">Next &gt;</button>
     </div>
-    <div class="keyboard-hint">Use ← → arrow keys to navigate</div>
+    <div class="keyboard-hint">You can naviagte through this album.</div>
   </div>
 </div>
 
@@ -282,9 +281,9 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     { src: '/images/train_army.jpeg', caption: 'Field training days in the US Army' },
     { src: '/images/camo.jpeg', caption: 'Training with a camouflage in the field' },
     { src: '/images/skydiving.jpeg', caption: 'Jumped from an airplane at 10,000 feet' },
-    { src: '/images/surfing.jpeg', caption: 'Tried surfing for the first time' },
     { src: '/images/tennis_nadal.jpeg', caption: 'Played tennis on a red clay court' },
-    { src: '/images/biking_on_campus.jpeg', caption: 'Biking on a campus is a great feeling' }
+    { src: '/images/biking_on_campus.jpeg', caption: 'Biking on a campus is a great feeling' },
+    { src: '/images/surfing.jpeg', caption: 'Tried surfing for the first time' },
   ];
   
   let currentImageIndex = 0;
