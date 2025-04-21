@@ -141,6 +141,10 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     transition: color 0.2s;
   }
   
+  .close-button:hover {
+    color: #ccc;
+  }
+  
   .lightbox-nav {
     display: flex;
     justify-content: space-between;
@@ -250,7 +254,6 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     </div>
     <figcaption class="thumbnail-caption">Riding my foldable bike</figcaption>
   </figure>
-
 </div>
 
 <!-- Lightbox Container -->
@@ -281,8 +284,7 @@ Some cool moments (that were photographed) that shaped me into who I am today.
     { src: '/images/skydiving.jpeg', caption: 'Jumped from an airplane at 10,000 feet' },
     { src: '/images/surfing.jpeg', caption: 'Tried surfing for the first time' },
     { src: '/images/tennis_nadal.jpeg', caption: 'Played tennis on a red clay court' },
-    { src: '/images/biking_on_campus.jpeg', caption: 'Riding my foldable bike' },
-
+    { src: '/images/biking_on_campus.jpeg', caption: 'Biking on a campus is a great feeling' }
   ];
   
   let currentImageIndex = 0;
@@ -349,44 +351,6 @@ Some cool moments (that were photographed) that shaped me into who I am today.
           event.preventDefault();
           break;
       }
-    }
-  });
-</script>
-
-<!-- Lightbox Container -->
-<div id="lightbox" class="lightbox" onclick="closeLightbox()">
-  <span class="close-button">&times;</span>
-  <div class="lightbox-content">
-    <img id="lightbox-image" class="lightbox-image" src="" alt="Enlarged photo">
-    <div id="lightbox-caption" class="lightbox-caption"></div>
-  </div>
-</div>
-
-<!-- JavaScript for Lightbox Functionality -->
-<script>
-  // Open lightbox with the clicked image
-  function openLightbox(imageSrc, caption) {
-    const lightbox = document.getElementById('lightbox');
-    const lightboxImage = document.getElementById('lightbox-image');
-    const lightboxCaption = document.getElementById('lightbox-caption');
-    
-    lightboxImage.src = imageSrc;
-    lightboxCaption.textContent = caption;
-    lightbox.style.display = 'flex';
-    
-    // Prevent the click from bubbling up and immediately closing
-    event.stopPropagation();
-  }
-  
-  // Close lightbox
-  function closeLightbox() {
-    document.getElementById('lightbox').style.display = 'none';
-  }
-  
-  // Close lightbox when ESC key is pressed
-  document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape') {
-      closeLightbox();
     }
   });
 </script>
