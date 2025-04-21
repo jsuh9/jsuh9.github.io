@@ -176,180 +176,186 @@ Some cool moments (that were photographed) that shaped me into who I am today.
 
 <!-- Gallery Grid -->
 <div class="gallery-grid">
-  <figure class="gallery-item" onclick="openLightbox('/images/cowboy.jpeg', 'Dressed up as a cowboy (exchange student days)')">
+  <figure class="gallery-item" data-image="images/cowboy.jpeg" data-caption="Dressed up as a cowboy (exchange student days)">
     <div class="thumbnail-container">
-      <img src="/images/cowboy.jpeg" alt="Photo 1" class="thumbnail">
+      <img src="images/cowboy.jpeg" alt="Photo 1" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Dressed up as a cowboy</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/football_torney.jpg', 'First American football experience')">
+  <figure class="gallery-item" data-image="images/football_torney.jpg" data-caption="First American football experience">
     <div class="thumbnail-container">
-      <img src="/images/football_torney.jpg" alt="Photo 2" class="thumbnail">
+      <img src="images/football_torney.jpg" alt="Photo 2" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">First American football</figcaption>
   </figure>
   
-  <figure class="gallery-item" onclick="openLightbox('/images/hs_football.jpeg', 'A local newspapr photographed me doing the iconic Heisman pose during the game')">
+  <figure class="gallery-item" data-image="images/hs_football.jpeg" data-caption="A local newspaper photographed me doing the iconic Heisman pose during the game">
     <div class="thumbnail-container">
-      <img src="/images/hs_football.jpeg" alt="Photo 3" class="thumbnail">
+      <img src="images/hs_football.jpeg" alt="Photo 3" class="thumbnail">
     </div>
-    <figcaption class="thumbnail-caption">The Heisman pose captured by a media</figcaption>
+    <figcaption class="thumbnail-caption">The Heisman pose captured by media</figcaption>
   </figure>
   
-  <figure class="gallery-item" onclick="openLightbox('/images/natural_independence.jpeg', 'The Oath of Allegiance on the Independence day')">
+  <figure class="gallery-item" data-image="images/natural_independence.jpeg" data-caption="The Oath of Allegiance on Independence Day">
     <div class="thumbnail-container">
-      <img src="/images/natural_independence.jpeg" alt="Photo 4" class="thumbnail">
+      <img src="images/natural_independence.jpeg" alt="Photo 4" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Officially becoming American</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/train_army.jpeg', 'Weapons training as a solider in the US Army')">
+  <figure class="gallery-item" data-image="images/train_army.jpeg" data-caption="Weapons training as a soldier in the US Army">
     <div class="thumbnail-container">
-      <img src="/images/train_army.jpeg" alt="Photo 5" class="thumbnail">
+      <img src="images/train_army.jpeg" alt="Photo 5" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Field training</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/camo.jpeg', 'Can you find me? Training with a camouflage when I was in the US Army')">
+  <figure class="gallery-item" data-image="images/camo.jpeg" data-caption="Can you find me? Training with camouflage when I was in the US Army">
     <div class="thumbnail-container">
-      <img src="/images/camo.jpeg" alt="Photo 6" class="thumbnail">
+      <img src="images/camo.jpeg" alt="Photo 6" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Training camouflaged</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/skydiving.jpeg', 'Jumped from an airplane at 10,000 feet')">
+  <figure class="gallery-item" data-image="images/skydiving.jpeg" data-caption="Jumped from an airplane at 10,000 feet">
     <div class="thumbnail-container">
-      <img src="/images/skydiving.jpeg" alt="Photo 7" class="thumbnail">
+      <img src="images/skydiving.jpeg" alt="Photo 7" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Skydiving</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/soccer_torney.jpeg', 'Led my Korean student soccer team to tournament victory as team captain')">
+  <figure class="gallery-item" data-image="images/soccer_torney.jpeg" data-caption="Led my Korean student soccer team to tournament victory as team captain">
     <div class="thumbnail-container">
-      <img src="/images/soccer_torney.jpeg" alt="Photo 9" class="thumbnail">
+      <img src="images/soccer_torney.jpeg" alt="Photo 8" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Winning soccer tourney as a captain</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/tennis_nadal.jpeg', 'Played tennis on a red clay court')">
+  <figure class="gallery-item" data-image="images/tennis_nadal.jpeg" data-caption="Played tennis on a red clay court">
     <div class="thumbnail-container">
-      <img src="/images/tennis_nadal.jpeg" alt="Photo 9" class="thumbnail">
+      <img src="images/tennis_nadal.jpeg" alt="Photo 9" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Playing tennis on a clay court</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/biking_on_campus.jpeg', 'The freedom and joy of cycling across campus is a small bit of happiness')">
+  <figure class="gallery-item" data-image="images/biking_on_campus.jpeg" data-caption="The freedom and joy of cycling across campus is a small bit of happiness">
     <div class="thumbnail-container">
-      <img src="/images/biking_on_campus.jpeg" alt="Photo 9" class="thumbnail">
+      <img src="images/biking_on_campus.jpeg" alt="Photo 10" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Foldable bike</figcaption>
   </figure>
 
-  <figure class="gallery-item" onclick="openLightbox('/images/surfing.jpeg', 'Tried surfing for the first time')">
+  <figure class="gallery-item" data-image="images/surfing.jpeg" data-caption="Tried surfing for the first time">
     <div class="thumbnail-container">
-      <img src="/images/surfing.jpeg" alt="Photo 8" class="thumbnail">
+      <img src="images/surfing.jpeg" alt="Photo 11" class="thumbnail">
     </div>
     <figcaption class="thumbnail-caption">Surfing</figcaption>
   </figure>
-
 </div>
 
 <!-- Lightbox Container -->
-<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+<div id="lightbox" class="lightbox">
   <span class="close-button">&times;</span>
-  <div class="lightbox-content" onclick="event.stopPropagation()">
+  <div class="lightbox-content">
     <img id="lightbox-image" class="lightbox-image" src="" alt="Enlarged photo">
     <div id="lightbox-caption" class="lightbox-caption"></div>
     <div class="lightbox-nav">
-      <button class="nav-button prev-button" onclick="prevImage()">&lt; Previous</button>
-      <button class="nav-button next-button" onclick="nextImage()">Next &gt;</button>
+      <button class="nav-button prev-button">&lt; Previous</button>
+      <button class="nav-button next-button">Next &gt;</button>
     </div>
-    <div class="keyboard-hint">You can naviagte through this album.</div>
+    <div class="keyboard-hint">You can navigate through this album using arrow keys.</div>
   </div>
 </div>
 
 <!-- JavaScript for Lightbox Functionality -->
 <script>
-  // Store image data for navigation
-  const galleryImages = [
-    { src: '/images/cowboy.jpeg', caption: 'Dressed up as a cowboy (exchange student days)' },
-    { src: '/images/football_torney.jpg', caption: 'First American football experience' },
-    { src: '/images/hs_football.jpeg', caption: 'A local news took a cool picture of me with the Heisman pose' },
-    { src: '/images/soccer_torney.jpeg', caption: 'Led my Korean student soccer team to win a local tournament as a captain' },
-    { src: '/images/natural_independence.jpeg', caption: 'The Oath of Allegiance on the Independence day' },
-    { src: '/images/train_army.jpeg', caption: 'Field training days in the US Army' },
-    { src: '/images/camo.jpeg', caption: 'Training with a camouflage in the field' },
-    { src: '/images/skydiving.jpeg', caption: 'Jumped from an airplane at 10,000 feet' },
-    { src: '/images/tennis_nadal.jpeg', caption: 'Played tennis on a red clay court' },
-    { src: '/images/biking_on_campus.jpeg', caption: 'Biking on a campus is a great feeling' },
-    { src: '/images/surfing.jpeg', caption: 'Tried surfing for the first time' },
-  ];
-  
-  let currentImageIndex = 0;
-  
-  // Open lightbox with the clicked image
-  function openLightbox(imageSrc, caption) {
+  document.addEventListener('DOMContentLoaded', function() {
+    // Get all gallery items
+    const galleryItems = document.querySelectorAll('.gallery-item');
     const lightbox = document.getElementById('lightbox');
     const lightboxImage = document.getElementById('lightbox-image');
     const lightboxCaption = document.getElementById('lightbox-caption');
+    const closeButton = document.querySelector('.close-button');
+    const prevButton = document.querySelector('.prev-button');
+    const nextButton = document.querySelector('.next-button');
     
-    // Find the index of the clicked image
-    currentImageIndex = galleryImages.findIndex(img => img.src === imageSrc);
+    let currentImageIndex = 0;
+    let galleryImages = [];
     
-    lightboxImage.src = imageSrc;
-    lightboxCaption.textContent = caption;
-    lightbox.style.display = 'flex';
+    // Build the gallery images array from the actual DOM elements
+    galleryItems.forEach(item => {
+      galleryImages.push({
+        src: item.getAttribute('data-image'),
+        caption: item.getAttribute('data-caption')
+      });
+      
+      // Add click event listener to each gallery item
+      item.addEventListener('click', function() {
+        const imageSrc = this.getAttribute('data-image');
+        const caption = this.getAttribute('data-caption');
+        
+        // Find the index of the clicked image
+        currentImageIndex = galleryImages.findIndex(img => img.src === imageSrc);
+        
+        lightboxImage.src = imageSrc;
+        lightboxCaption.textContent = caption;
+        lightbox.style.display = 'flex';
+      });
+    });
     
-    // Prevent the click from bubbling up and immediately closing
-    event.stopPropagation();
-  }
-  
-  // Navigate to previous image
-  function prevImage() {
-    currentImageIndex = (currentImageIndex - 1 + galleryImages.length) % galleryImages.length;
-    updateLightboxImage();
-  }
-  
-  // Navigate to next image
-  function nextImage() {
-    currentImageIndex = (currentImageIndex + 1) % galleryImages.length;
-    updateLightboxImage();
-  }
-  
-  // Update the lightbox with current image
-  function updateLightboxImage() {
-    const lightboxImage = document.getElementById('lightbox-image');
-    const lightboxCaption = document.getElementById('lightbox-caption');
-    
-    lightboxImage.src = galleryImages[currentImageIndex].src;
-    lightboxCaption.textContent = galleryImages[currentImageIndex].caption;
-  }
-  
-  // Close lightbox
-  function closeLightbox() {
-    document.getElementById('lightbox').style.display = 'none';
-  }
-  
-  // Keyboard navigation
-  document.addEventListener('keydown', function(event) {
-    const lightbox = document.getElementById('lightbox');
-    // Only handle keyboard navigation when lightbox is open
-    if (lightbox.style.display === 'flex') {
-      switch(event.key) {
-        case 'ArrowLeft':
-          prevImage();
-          event.preventDefault();
-          break;
-        case 'ArrowRight':
-          nextImage();
-          event.preventDefault();
-          break;
-        case 'Escape':
-          closeLightbox();
-          event.preventDefault();
-          break;
-      }
+    // Navigate to previous image
+    function prevImage() {
+      currentImageIndex = (currentImageIndex - 1 + galleryImages.length) % galleryImages.length;
+      updateLightboxImage();
     }
+    
+    // Navigate to next image
+    function nextImage() {
+      currentImageIndex = (currentImageIndex + 1) % galleryImages.length;
+      updateLightboxImage();
+    }
+    
+    // Update the lightbox with current image
+    function updateLightboxImage() {
+      lightboxImage.src = galleryImages[currentImageIndex].src;
+      lightboxCaption.textContent = galleryImages[currentImageIndex].caption;
+    }
+    
+    // Close lightbox
+    function closeLightbox() {
+      lightbox.style.display = 'none';
+    }
+    
+    // Add event listeners for navigation and closing
+    prevButton.addEventListener('click', prevImage);
+    nextButton.addEventListener('click', nextImage);
+    closeButton.addEventListener('click', closeLightbox);
+    lightbox.addEventListener('click', function(e) {
+      if (e.target === lightbox) {
+        closeLightbox();
+      }
+    });
+    
+    // Keyboard navigation
+    document.addEventListener('keydown', function(event) {
+      // Only handle keyboard navigation when lightbox is open
+      if (lightbox.style.display === 'flex') {
+        switch(event.key) {
+          case 'ArrowLeft':
+            prevImage();
+            event.preventDefault();
+            break;
+          case 'ArrowRight':
+            nextImage();
+            event.preventDefault();
+            break;
+          case 'Escape':
+            closeLightbox();
+            event.preventDefault();
+            break;
+        }
+      }
+    });
   });
 </script>
