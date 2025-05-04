@@ -12,9 +12,10 @@ redirect_from:
 ## Curriculum Vitae
 
 My Full CV can be downloaded here:
- <button onclick="window.open('{{ '/files/jsuh_cv2025.pdf' | relative_url }}', '_blank')">
+ <button onclick="window.open('{{ '/files/JSuh_cv25.pdf' | relative_url }}', '_blank')">
     Download CV (.pdf)
 </button>
+
 
 Below is an overview.
 
