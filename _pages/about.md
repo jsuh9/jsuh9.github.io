@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I was living by this simple principle in many of life's pivotal moments wthout even realizing.
-
-Reflecting on it, I still believe in this principle---and I’m happy with where it's led me.
+In retrospect, this simple principle was behind to most of my "dots" in life with the most rewarding outcomes.
+So I am going to try to live by this principle---and I’m happy with where it's led me so far.
 
 Hi, welcome to my webpage! I am a PhD student at [Purdue University](https://www.purdue.edu/) in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE). I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
