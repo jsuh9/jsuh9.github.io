@@ -24,9 +24,9 @@ Research Interests:
 
 Education
 ======
-* Ph.D in Autonomy and Control, Purdue University, 05/2026 (expected)
+* Ph.D in Control Theory, Purdue University, 05/2026 (expected)
   * Thesis: Efficient Encrypted Control Synthesis for Secure Cloud-based Control
-* M.S. in Control, Autonomy, and Robotics, The University of Texas at Austin, 12/2020
+* M.S. in Control Theory, The University of Texas at Austin, 12/2020
 * B.S. in Aerospace Engineering, The University of Texas at Austin, 12/2018
 
 Work Authorization
