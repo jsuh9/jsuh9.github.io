@@ -11,7 +11,7 @@ In retrospect, this simple principle was behind most of the 'dots' in my life th
 
 So I am going to try to live by this principle as I’m happy with where it's led me so far.
 
-Hi, welcome to my webpage! I am a PhD student at [Purdue University](https://www.purdue.edu/) in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE). I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
+Hi, welcome to my webpage! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
 My research focus is on <em>Encrypted Control</em>, a novel field that touches upon both [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography). In this research, we apply an advanced cryptographic protocol called <em>[homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)</em> into control systems [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems) to **enable a privacy-preserving, secure decision-making** in the networekd control systems.
 
