@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Staying Curious"
+title                    : "Jihoon's Staying Curious"
 title_separator          : "-"
 name                     : &name "Jihoon Suh"
 description              : &description "PhD student at Purdue University"

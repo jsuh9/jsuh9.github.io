@@ -1,28 +1,28 @@
 ---
 permalink: /
-title: "Live with Why Not, and Think with Why"
+title: "\"Live with Why Not, and Think with Why\""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-In retrospect, this simple principle was behind most of the 'dots' in my life that led to the most rewarding outcomes. (I find this [Steve Jobs' speech](https://youtu.be/Hd_ptbiPoXM?si=R-wkhwK40lNmLYIz&t=450) especially inspiring.)
+This principle reflects my curiosity-driven personal journey.
+Curiosity motivates me to take risks, to reflect, and to understand.
+In retrospect, this simple principle was behind most of the 'dots' in my life that unexpectedly led to the most rewarding outcomes. (In this sense, I find this [Steve Jobs' speech](https://youtu.be/Hd_ptbiPoXM?si=R-wkhwK40lNmLYIz&t=450) especially inspiring.)
 
-So I am going to try to live by this principle as I’m happy with where it's led me so far.
+So I plan to keep living by this principle as I’m happy with where it's led me so far.
 
-Hi, welcome to my webpage! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
+Welcome to my webpage! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
 My research focus is on <em>Encrypted Control</em>, a novel field that touches upon both [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography). In this research, we apply an advanced cryptographic protocol called <em>[homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)</em> into control systems [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems) to **enable a privacy-preserving, secure decision-making** in the networekd control systems.
 
 This is my professional webpage as well as my personal blog.
 You can check out my CV, publications, or read up on my latest blog posts.
-You can also find links to all my professional outlets on the side (or on top for mobile viewers).
-If you are interested in my work, or want to collaborate, please feel free to reach out!
+You can also find links to all my professional outlets here.
 
-About Me
+Some fun life experiences :p
 ======
-Some cool moments (that were photographed) that shaped me into who I am today.
 
 <!-- Lightbox & Gallery Styles -->
 <style>
