@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Live with Why Not, and Think with Why"
+title                    : "Staying Curious"
 title_separator          : "-"
 name                     : &name "Jihoon Suh"
 description              : &description "PhD student at Purdue University"
