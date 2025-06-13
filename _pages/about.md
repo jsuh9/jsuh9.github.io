@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 This simple principle was behind most of the 'dots' in my life that unexpectedly led to the most rewarding outcomes.
-Curiosity and serendipity. I feel like I can live happily forever if I can nurture these two words. 
+
+Curiosity and serendipity. I am happy when I nurture these two words.
 
 So I plan to keep living by this principle as I’m happy with where it's led me so far.
 
