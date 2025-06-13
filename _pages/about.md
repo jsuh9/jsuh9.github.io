@@ -20,8 +20,6 @@ This is my professional webpage as well as my personal blog.
 You can check out my CV, publications, or read up on my latest blog posts.
 You can also find links to all my professional outlets here.
 
-======
-
 <!-- Lightbox & Gallery Styles -->
 <style>
   /* Grid layout for thumbnails */
