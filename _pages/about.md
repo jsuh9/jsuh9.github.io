@@ -9,7 +9,9 @@ redirect_from:
 
 This simple principle connects most of the 'dots' in my life.
 
-Curiosity and serendipity. I am happy when I nurture these two words. To do so, I plan to keep living by this principle.
+Curiosity and serendipity. 
+
+I am happy when I nurture these two words. To do so, I plan to keep living by this principle.
 
 Welcome! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
