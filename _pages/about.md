@@ -9,7 +9,7 @@ redirect_from:
 
 This principle reflects my curiosity-driven personal journey.
 Curiosity motivates me to take risks, to reflect, and to understand.
-In retrospect, this simple principle was behind most of the 'dots' in my life that unexpectedly led to the most rewarding outcomes. (In this sense, I find this [Steve Jobs' speech](https://youtu.be/Hd_ptbiPoXM?si=R-wkhwK40lNmLYIz&t=450) especially inspiring.)
+In retrospect, this simple principle was behind most of the 'dots' in my life that unexpectedly led to the most rewarding outcomes.
 
 So I plan to keep living by this principle as I’m happy with where it's led me so far.
 
