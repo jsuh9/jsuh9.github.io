@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This simple principle was behind most of the 'dots' in my life that unexpectedly led to the most rewarding outcomes.
+This simple principle connects most of the 'dots' in my life.
 
 Curiosity and serendipity. I am happy when I nurture these two words. To do so, I plan to keep living by this principle.
 
