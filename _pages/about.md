@@ -13,15 +13,14 @@ In retrospect, this simple principle was behind most of the 'dots' in my life th
 
 So I plan to keep living by this principle as I’m happy with where it's led me so far.
 
-Welcome to my webpage! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
+Welcome! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
-My research focus is on <em>Encrypted Control</em>, a novel field that touches upon both [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography). In this research, we apply an advanced cryptographic protocol called <em>[homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)</em> into control systems [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems) to **enable a privacy-preserving, secure decision-making** in the networekd control systems.
+My research focus is on <em>Encrypted Control</em>, a novel field that touches upon both [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography). In this research, we apply a cryptographic method called <em>[homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)</em> into control systems [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems) to **enable a privacy-preserving, secure decision-making**.
 
 This is my professional webpage as well as my personal blog.
 You can check out my CV, publications, or read up on my latest blog posts.
 You can also find links to all my professional outlets here.
 
-Some fun life experiences :p
 ======
 
 <!-- Lightbox & Gallery Styles -->
