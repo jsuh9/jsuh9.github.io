@@ -9,9 +9,7 @@ redirect_from:
 
 This simple principle was behind most of the 'dots' in my life that unexpectedly led to the most rewarding outcomes.
 
-Curiosity and serendipity. I am happy when I nurture these two words.
-
-So I plan to keep living by this principle as I’m happy with where it's led me so far.
+Curiosity and serendipity. I am happy when I nurture these two words. To do so, I plan to keep living by this principle.
 
 Welcome! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
