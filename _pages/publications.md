@@ -15,7 +15,7 @@ author_profile: true
 
 <h2>Journal Articles</h2>
 <ul>
-  <li>Jihoon Suh, Yeongjun Jang, Kaoru Teranishi, and Takashi Tanaka. <strong>Relative Entropy Regularized Reinforcement Learning for Efficient Encrypted Policy Synthesis</strong>. <em>Journal of The Society of Instrument and Control Engineers</em>, vol. 64, no. 4, pp. 223–229, 2025.</li>
+  <li>Jihoon Suh, Yeongjun Jang, Kaoru Teranishi, and Takashi Tanaka. <strong>Relative Entropy Regularized Reinforcement Learning for Efficient Encrypted Policy Synthesis</strong>. <em>IEEE Control Systems Letters</em> Early Access, June 2025.</li>
   <li>Jihoon Suh and Takashi Tanaka. <strong>Efficient Implementation of Reinforcement Learning over Homomorphic Encryption</strong>. <em>Journal of The Society of Instrument and Control Engineers</em>, vol. 64, no. 4, pp. 223–229, 2025.</li>
 </ul>
 
