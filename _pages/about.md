@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "\"Live with Why Not, and Think with Why\""
+title: "\"Why not?\""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This simple principle connects most of the 'dots' in my life.
+Hi, welcome! I am Jihoon.
 
-Curiosity and serendipity. 
+Out of more than several billion links available out there, you somehow ended up here, I guess that is somewhat special!
+There isn't much here at the moment but I hope to come back time to time, and share some things that I find interesting/useful.
 
-I am happy when I nurture these two words. To do so, I plan to keep living by this principle.
-
-Welcome! I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
+I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
 
 My research focus is on <em>Encrypted Control</em>, an intersection of [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography). In this research, we apply a cryptographic method such as <em>[homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)</em> into [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems) to **enable a privacy-preserving, secure decision-making**.
 

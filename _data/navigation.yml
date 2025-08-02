@@ -33,5 +33,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide (for self reference)"
-    url: /markdown/
+  # - title: "Guide (for self reference)"
+    # url: /markdown/
