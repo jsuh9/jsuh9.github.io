@@ -14,9 +14,6 @@ My research focused on *Encrypted Control*, which is a field aiming to enable (c
 
 Starting June 2026, I will be working as a Research Scientist at [Anduril Industries](https://www.anduril.com) in Fort Collins, Colorado.
 
-This is my professional webpage and personal blog. You can check out my CV, publications, or read up on my latest blog posts.
-
-
 <!-- GALLERY DISABLED
 <style>
   /* Grid layout for thumbnails */
