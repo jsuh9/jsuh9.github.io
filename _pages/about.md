@@ -10,17 +10,15 @@ redirect_from:
 Hi, welcome! I am Jihoon.
 
 Out of more than several billion links available out there, you somehow ended up here, I guess that is somewhat special!
-There isn't much here at the moment but I hope to come back time to time, and share some things that I find interesting/useful.
 
-I am a PhD student at Purdue University in the School of Aeronautics and Astronautics. I am advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
+I recently completed my PhD at Purdue University in the School of Aeronautics and Astronautics, where I was advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/). My research focused on *Encrypted Control*, which is a field aiming to enable privacy-preserving, secure decision-making for [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems). The field sits nicely at the intersection of [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography).
 
-My research focus is on <em>Encrypted Control</em>, an intersection of [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography). In this research, we apply a cryptographic method such as <em>[homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)</em> into [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems) to **enable a privacy-preserving, secure decision-making**.
+Starting June 2026, I will be working as a Research Scientist at [Anduril Industries](https://www.anduril.com) in Fort Collins, Colorado.
 
-This is my professional webpage as well as my personal blog.
-You can check out my CV, publications, or read up on my latest blog posts.
-You can also find links to all my professional outlets here.
+This is my professional webpage and personal blog. You can check out my CV, publications, or read up on my latest blog posts.
 
-<!-- Lightbox & Gallery Styles -->
+
+<!-- GALLERY DISABLED
 <style>
   /* Grid layout for thumbnails */
   .gallery-grid {
@@ -169,8 +167,10 @@ You can also find links to all my professional outlets here.
     text-align: center;
   }
 </style>
+-->
 
-<!-- Gallery Grid -->
+
+<!-- Gallery Grid
 <div class="gallery-grid">
   <figure class="gallery-item" data-image="images/cowboy.jpeg" data-caption="Dressed up as a cowboy (exchange student days)">
     <div class="thumbnail-container">
@@ -249,8 +249,9 @@ You can also find links to all my professional outlets here.
     <figcaption class="thumbnail-caption">Surfing</figcaption>
   </figure>
 </div>
+-->
 
-<!-- Lightbox Container -->
+<!-- Lightbox Container
 <div id="lightbox" class="lightbox">
   <span class="close-button">&times;</span>
   <div class="lightbox-content">
@@ -264,7 +265,8 @@ You can also find links to all my professional outlets here.
   </div>
 </div>
 
-<!-- JavaScript for Lightbox Functionality -->
+JavaScript for Lightbox Functionality
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     // Get all gallery items
@@ -355,3 +357,4 @@ You can also find links to all my professional outlets here.
     });
   });
 </script>
+-->

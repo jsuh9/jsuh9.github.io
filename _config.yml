@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Staying Curious"
+title                    : "Curiosity 9"
 title_separator          : "-"
 name                     : &name "Jihoon Suh"
-description              : &description "PhD student at Purdue University"
+description              : &description "Research Scientist at Anduril Industries"
 url                      : https://jsuh9.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,13 +25,11 @@ author:
   avatar           : "profile/JihoonSuh.png"
   name             : "Jihoon Suh"
   # pronouns         : # example: "she/her"  
-  bio              : "PhD student @ <a href='https://networked-control-systems-lab.github.io'>NCS Lab</a><br>Research Interests:<ul class='research-interests'><li>Control Theory</li><li>Cryptography</li><li>Reinforcement Learning</li></ul>"
-  location         : "West Lafayette, IN"
-  employer         : "Purdue University"
-  employer_url     : "https://engineering.purdue.edu/AAE"
+  bio              : "Research Scientist @ <a href='https://www.anduril.com'>Anduril</a>"
+  location         : "Fort Collins, CO"
   uri              : # URL
   linkedin         : "jsuh9"
-  email            : "suh95@purdue.edu" 
+  email            : "jihoonsuh715@gmail.com" 
 
 
   # Academic websites
