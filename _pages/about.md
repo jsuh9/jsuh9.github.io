@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome! I am Jihoon.
+Out of more than billion links out there, you somehow ended up here. Thats's special, welcome!
 
-Out of more than several billion links available out there, you somehow ended up here, I guess that is somewhat special!
-
-I recently completed my PhD at Purdue University in the School of Aeronautics and Astronautics, where I was advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/). My research focused on *Encrypted Control*, which is a field aiming to enable privacy-preserving, secure decision-making for [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems). The field sits nicely at the intersection of [control theory](https://en.wikipedia.org/wiki/Control_theory) and [cryptography](https://en.wikipedia.org/wiki/Cryptography).
+I recently completed my PhD at Purdue University, where I was advised by Dr. Takashi Tanaka at the [Networked Control Systems Lab](https://networked-control-systems-lab.github.io/).
+My research focused on *Encrypted Control*, which is a field aiming to enable (cryptographically) privacy-preserving, secure decision-making for [Cyber-Physical Systems](https://www.nsf.gov/funding/opportunities/cps-cyber-physical-systems).
 
 Starting June 2026, I will be working as a Research Scientist at [Anduril Industries](https://www.anduril.com) in Fort Collins, Colorado.
 
