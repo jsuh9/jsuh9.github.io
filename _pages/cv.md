@@ -11,57 +11,65 @@ redirect_from:
 
 ## Curriculum Vitae
 
-My Full CV can be downloaded here:
- <button onclick="window.open('{{ '/files/JSuh_cv25.pdf' | relative_url }}', '_blank')">
+My full CV can be downloaded here:
+<button onclick="window.open('{{ '/files/JSuh_cv26.pdf' | relative_url }}', '_blank')">
     Download CV (.pdf)
 </button>
 
-
 Below is an overview.
 
-Research Interests:
+Research Focus
 ======
-* Encrypted Control, Reinforcement Learning, Security, Cryptographic Computing
+Control Theory, Reinforcement Learning, Encrypted Control, Optimization, Cryptography
 
 Education
 ======
-* Ph.D in Control Theory, Purdue University, 05/2026 (expected)
-  * Thesis: Efficient Encrypted Control Synthesis for Secure Cloud-based Control
-* M.S. in Control Theory, The University of Texas at Austin, 12/2020
-* B.S. in Aerospace Engineering, The University of Texas at Austin, 12/2018
+* Ph.D. in Control Theory, Purdue University, May 2026
+  * Advisor: Prof. Takashi Tanaka
+  * Dissertation: Variational Encrypted Control Synthesis for Privacy-Preserving Cloud-based Control
+* M.S. in Control Theory, The University of Texas at Austin, Dec 2020
+* B.S. in Aerospace Engineering (Math minor), The University of Texas at Austin, Dec 2018
 
 Work Authorization
-=====
+======
 * Citizenship Status: U.S. Citizen
 * Veteran Status: U.S. Army Reserve Veteran
 * Disability Status: No Disability
 
 Technical Skills
 ======
-* Programming: Python, C++, MATLAB
-* Tools: Simulink, PyTorch, Microsoft SEAL, TensorFlow, YALMIP, CVXPY, ROS, Google Cloud, Quarc, Git
+* Programming: Python, MATLAB, C++ (from most to least used)
+* Tools: CVXPY, YALMIP, Gurobi, MOSEK, PyTorch, NumPy, SciPy, Pandas, CCXT, Git, ROS, Microsoft SEAL
 
-Employemnt
+Experience
 ======
-* Graduate Research/Teaching Assistant, 08/2019 -- Present
-* Chief Research Officer, Nika Capital, 06/2023 -- 12/2024
-* Machine Learning Scientist Intern, Draper Laboratory, 05/2021 -- 08/2021
+* Research Scientist, Anduril Industries, 06/2026 -- Present
+  * Fort Collins, Colorado
+* Graduate Research Assistant, Networked Control Systems Lab (UT Austin & Purdue), 08/2020 -- 05/2026
+* Chief Research Officer, Nika Capital, 07/2022 -- 07/2024
+* Machine Learning Intern, Draper Laboratory, 05/2021 -- 08/2021
+* MAVNI Soldier, US Army, 12/2015 -- 12/2021 (IRR until 12/2023)
 
 Teaching Experience
 ======
 * Teaching Assistant -- The University of Texas at Austin
-  * Feedback Control Systems: Spring 2021, Spring 2023, Fall 2023, Spring 2024
-  * Linear System Analysis: Fall 2023, Fall 2024
+  * Feedback Control Systems (Prof. Tanaka, Prof. Topcu): Sp2021, Sp2023, Fa2023, Sp2024
+  * Linear Systems Analysis (Prof. Bakolas): Fa2023, Fa2024
 
 Mentoring / Advising
 ======
-* Mentor for REACT-REU , The Center for Autonomy at the Oden Institute, 05/2023 – 08/2023,
+* Mentor for REACT-REU, The Center for Autonomy at the Oden Institute, 05/2023 -- 08/2023
   * Mentoring undergraduate students while leading a research project on Crazyflies quadcopter formation flying with Python and basic motion planning (Mentees: Ian Cornwell, Alayasia Thomas).
+
+Poster Presentations
+======
+* Encrypted Control Experimental Demonstration, Industry Visit at the Auto GNC Lab, 2020.
 
 Community Engagement
 ======
-* Encrypted Inverted Pendulum Demonstration at Explore UT
+* Encrypted Inverted Pendulum Demonstration at Explore UT, 2019, 2020.
 
-Professional Service
+Honors & Service
 ======
-* Reviewer: TAC, CDC, ACC, ECC, IFAC, L-CSS, Automatica
+* Bob E. Schutz Presidential Fellowship in Aerospace Engineering (2022--2023)
+* Reviewer: TAC, TCNS, CDC, ACC, ECC, IFAC, L-CSS, Automatica, RA-L, IROS
